@@ -1,0 +1,19 @@
+# Chapter 1: Basics of Python
+
+This chapter introduces the fundamentals of Python programming. It includes:
+
+## Topics Covered:
+- Printing and Variables
+- Data Types: String, Integer, Float, Boolean, None
+- Arithmetic, Relational, Assignment, and Logical Operators
+- Type Conversion and Type Casting
+- Input/Output Operations
+- Comments in Python
+
+## Practice Problems:
+1. Input 2 numbers and print their sum.
+2. Input the side of a square and print its area.
+3. Input 2 floating-point numbers and print their average.
+4. Input 2 integers, `a` and `b`, and check if `a >= b`.
+
+Explore these topics to strengthen your Python basics. Happy Coding!
