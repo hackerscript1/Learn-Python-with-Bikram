@@ -1,0 +1,7 @@
+Introduction to Lists and Tuples in Python ✅ 
+Lists and Tuples are essential data structures in Python, used to store collections of items. Both are highly versatile but have distinct characteristics:
+
+  Lists: Mutable (modifiable), ordered collections that can store items of any data type. They are represented using square brackets [].
+  Tuples: Immutable (non-modifiable), ordered collections, represented using parentheses ().
+
+This chapter explores the features, methods, and common operations associated with Lists and Tuples. You'll learn how to work with them effectively through practical examples and exercises.
