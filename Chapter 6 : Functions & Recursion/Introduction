@@ -1,4 +1,4 @@
-Introduction to Functions and Recursion in Python ✅ 
+Introduction to Functions & Recursion in Python ✅ 
 In Python, functions are a fundamental concept that allow you to group related code into reusable blocks. Functions make programs more modular, readable, and easier to maintain by allowing you to write code that can be called multiple times with different inputs. Functions can accept parameters, return values, and help perform specific tasks efficiently.
 
 In addition to basic functions, recursion is a technique where a function calls itself to solve a problem. This method is particularly useful for problems that can be broken down into smaller, similar sub-problems, such as calculating factorials, traversing data structures, and more.
