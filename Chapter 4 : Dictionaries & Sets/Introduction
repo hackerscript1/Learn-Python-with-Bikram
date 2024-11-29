@@ -1,0 +1,21 @@
+Chapter 4: Dictionaries and Sets in Python ✅ 
+In this chapter, we dive into two of the most powerful and commonly used data structures in Python: Dictionaries and Sets. Both are essential tools for organizing, managing, and manipulating data effectively in Python.
+
+Key Highlights of This Chapter
+1. Dictionaries:
+  A collection of key-value pairs where keys are unique.
+  Perfect for scenarios where data needs to be accessed using unique identifiers.
+  Example Use Case: Storing and accessing student details using their roll numbers as keys.
+
+2. Sets:
+  An unordered collection of unique elements.
+  Useful for operations like finding common elements or removing duplicates.
+  Example Use Case: Determining unique subjects from a list of subjects chosen by students.
+
+What You Will Learn
+  How to create and manipulate dictionaries and sets.
+  Using built-in methods to perform common operations efficiently.
+  Understanding the differences between mutable and immutable data structures.
+  Practical examples and exercises to solidify your understanding.
+
+By the end of this chapter, you’ll have a strong grasp of how to work with dictionaries and sets to solve real-world problems effectively. 
