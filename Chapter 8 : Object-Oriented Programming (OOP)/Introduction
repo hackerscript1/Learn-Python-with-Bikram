@@ -1,0 +1,6 @@
+Introduction to Object-Oriented Programming in Python ✅ 
+
+Object-Oriented Programming (OOP) is a programming paradigm that organizes code into reusable "objects," which are instances of "classes." It allows us to model real-world entities and their interactions, making the code more intuitive, maintainable, and scalable.
+
+In Python, OOP is a key feature that lets you define classes to encapsulate data (attributes) and behavior (methods) into a single logical entity. By using principles like encapsulation, inheritance, polymorphism, and abstraction, OOP simplifies complex programming tasks and promotes code reuse.
+
